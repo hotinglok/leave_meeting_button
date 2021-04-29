@@ -29,7 +29,7 @@ And here's the Reddit thread that prompted the sharing: https://www.reddit.com/r
   * Wires, solder, soldering iron to connect the switch legs to the Pro Micro.
   * (Recommended) Plastic Nippers - The prints I ordered were generally pretty good, but I think the fittings are a bit tight. Too tight for one of my cases for the pro micro clones I had actually. I'm not sure if this is a fault of the .stl file/design or the print itself so I recommend having some nippers or wire cutters to try cut off a tiny bit of the mount where the pro micro goes. Pictures included in the build instructions illustrating this.
   * (Optional) 2x M3 nuts
-  * (Optional) 4x Adhesive Anti-slip stickers. Just makes it move around less on the desk.
+  * (Optional) 4x Adhesive Anti-slip stickers. Just makes it move around less on the desk. Also helps in case you don't have the exact screws listed since it adds some height.
 
 ### Build Instructions (written by @hotinglok):
   1) Print the 3 STL files. I don't have a 3D printer so I used [Champion3d](https://champion3d.com/) as I am based in the UK.
@@ -67,6 +67,7 @@ And here's the Reddit thread that prompted the sharing: https://www.reddit.com/r
       * ![IMG_20210417_222019](https://user-images.githubusercontent.com/53564281/116582819-a43c0d00-a90d-11eb-80f3-09246045bccc.jpg)
 
   7) Fit the completed keycap on the switch/stabs. Connect it to your computer and test it out. Hopefully everything works (it should)!
+  8) (Optional) Add adhesive anti-slip stickers to the base. I used different screws to what was listed so they weren't flush with the base. These stickers added some height so it was fine for me and also made the button move around much less on my desk.
 ## Outstanding items
 
 If you can help out here it will be much appreciated:
